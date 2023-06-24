@@ -37,4 +37,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-link domain vercel https://github.com/RistyFaren/si-perpus.git
+link domain vercel https://si-perpus-mu.vercel.app/
